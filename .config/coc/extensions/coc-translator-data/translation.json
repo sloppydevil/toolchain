@@ -1,0 +1,834 @@
+[
+  {
+    "id": "E4w4eOHDuxBdzuNRmLBTH",
+    "content": [
+      "frame",
+      "n. 框架，边框；（家具、建筑物、车辆等的）构架，支架；体格，骨架；眼镜框；（系统、概念或文章的）基本框架；镜头，画面；（连环漫画中的）一幅画；（网页的）一个区域；（斯诺克或保龄球的）一局；（玻璃或塑料的箱式）轻便温床；（纺织、编结或刺绣用的）框；替换框架"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/StrikeBee/assets/Script/FightBeePanel.ts\t130\t38"
+  },
+  {
+    "id": "UQo1O7uXy-2uiQvsJChln",
+    "content": [
+      "find",
+      "v. 找到，找回；发现，发觉；（经过研究）找出，查明；感到，认为；生长在某处，存在于某地；设法获得；开始有……；裁决，判决；自然到达，达到；鼓起（勇气），振作（精神）；（猎人，猎犬）发现猎物（尤指发现狐狸）"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/StrikeBee/assets/Script/FightBeePanel.ts\t57\t28"
+  },
+  {
+    "id": "6JRqLbKO1AWBe9FbgMSrR",
+    "content": [
+      "Canvas",
+      "n. 帆布；画布，油画"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/StrikeBee/assets/Script/FightBeePanel.ts\t57\t34"
+  },
+  {
+    "id": "y4J2OIFHTA-EA6oOUIlPX",
+    "content": [
+      "criteria",
+      "名詞. 标准, 准则, 规范, 则, 准绳, 尺度, 准, 轨范"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/StrikeBee/assets/Script/working_item.md\t54\t54"
+  },
+  {
+    "id": "T4lbiK3D8D4tISYDoLrE7",
+    "content": [
+      "instantiate",
+      "实例化"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/StrikeBee/assets/Script/Helloworld.ts\t78\t32"
+  },
+  {
+    "id": "gYyJcBRqsm27tWCgGGMD8",
+    "content": [
+      "sanity",
+      "n. 精神健全，精神正常；明智，通情达理"
+    ],
+    "path": "file:///Users/Forest/Documents/matrix/ultralytics/docs/datasets/detect/coco8.md\t4\t117"
+  },
+  {
+    "id": "ZiKLpkXsaM8h_m0OoJdxb",
+    "content": [
+      "}",
+      "}"
+    ],
+    "path": "file:///Users/Forest/.vimrc\t63\t13"
+  },
+  {
+    "id": "VPBpH0A87WW5SLdl2IbSj",
+    "content": [
+      "clamp",
+      "v. （用夹具）夹紧，夹住；紧紧抓住，牢牢固定住；<英>给（车辆）上夹钳；保持（电信号）电压极限在规定水平"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/OnTheCourt/assets/Script/Welcome.ts\t65\t12"
+  },
+  {
+    "id": "PgcZNsNw4FkzfCQFRbOGL",
+    "content": [
+      "{}",
+      "{}"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/OnTheCourt/assets/Script/Player.ts\t19\t44"
+  },
+  {
+    "id": "ksw8RpEPgeZBeaKLhK793",
+    "content": [
+      "property",
+      "n. 所有物，财产；地产，房地产；房地产股票（或投资）（properties）；<法律> 所有权，处置权；特性，性质"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/OnTheCourt/assets/Script/Basket.ts\t19\t13"
+  },
+  {
+    "id": "XYmrjBCVUm9JovCpq0P2g",
+    "content": [
+      "g",
+      "n. 英语字母的第七个字母"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/OnTheCourt/assets/Script/%21sh\t1\t1"
+  },
+  {
+    "id": "xEfVSBq5irRoJiKqHdKW2",
+    "content": [
+      "markmap",
+      "markmap"
+    ],
+    "path": "file:///Users/Forest/.vimrc\t284\t33"
+  },
+  {
+    "id": "LfMZBOZYCo-_Uy43GkrpB",
+    "content": [
+      "Leader",
+      "n. 领导者，首领；领先者，佼佼者；首席小提琴手；指挥；社论；<美>（报纸的）要闻，头条；（胶卷，磁带的）空白段；（渔线）接钩绳；（植物的）顶枝；（尤指表格中的）指向符"
+    ],
+    "path": "file:///Users/Forest/.vimrc\t296\t11"
+  },
+  {
+    "id": "O2NQojDkWbPtUmnojz1Ia",
+    "content": [
+      "Plug",
+      "n. （电）插头；（电）插座；（洗涤槽或浴缸的）塞子；堵塞物；棉球，药棉；（塑料制的）螺钉楔子；（车辆引擎的）火花塞；宣传，推荐；（压实的）块，口嚼烟；<美，非正式>（婴儿的）橡皮奶头；岩颈；（供移植的）幼苗，草皮；（渔）鱼饵；<美>消防栓；<美，非正式>疲惫的马"
+    ],
+    "path": "file:///Users/Forest/.vimrc\t297\t17"
+  },
+  {
+    "id": "1aO7eX37rpOsXCEysXKeX",
+    "content": [
+      "section",
+      "n. 段，部分；散件，部件；（书、报等的）节，栏；一部分人；（乐队的）组；断面图，剖面图；（数学中的）截面；（手术中的）开刀，切开；（供研究用的动物或植物的）切片；<美> 一平方英里的土地；<美>（柑橘类水果的）一瓣；（法律文件的）款，项；路段；区域；部门，科；<新西兰> 建房用地；（军队的）特定单位；分排，小队；（生物）组（尤指亚属）"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/OnTheCourt/assets/Script/working_item.md\t4\t1"
+  },
+  {
+    "id": "WyUuzntKJMEOw9YZXPSyH",
+    "content": [
+      "journey",
+      "n. 旅行，旅程；历程，过程"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/OnTheCourt/assets/Script/working_item.md\t4\t1"
+  },
+  {
+    "id": "CUyLzJsM306Dn935YKf4c",
+    "content": [
+      "export",
+      "v. 出口；传播，输出；（在计算机中）导出，输出"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/OnTheCourt/assets/Script/Player.ts\t58\t12"
+  },
+  {
+    "id": "4EvgvwqFxinU19-hlUx1C",
+    "content": [
+      "BehaviorTree",
+      "行为树"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/OnTheCourt/assets/Script/Player.ts\t23\t25"
+  },
+  {
+    "id": "KeNCF-ouvV_lmVfBJsTew",
+    "content": [
+      "line",
+      "n. 线，线条；（运动场地的）场界，场地线；皱纹，褶子；分界线，边界线；（思想或行为等的）界限，界线；边线，轮廓线，形状；排，行，列；（人、车辆等在等候时排成的）队，队伍；按时间顺序排列的人(或物、事件)，家系；一系列按重要性排列的人；字行，诗行；（戏剧或电影的）台词，对白；<英>罚抄写（对学童的处罚）（lines）；（尤指为达到某种目的说的）话，言语；线，绳，索；电话线（路）；热线（电话），电话服务；（铁道或公交）线路；铁轨，轨道；管道，线路；（行进的）方向，路线，方位；路线，路径，渠道；（尤指公开表明的）态度，看法；方法，方式；行业，行当；（商品的）类，类别；防线，前线，战线；（准备吸用的）散放成细线的毒品；生产线，流水线；一串音符；概况，大致情形（lines）；短信息，便条；通信系统；（组织的）方式，原则（lines）；<非正式>专长，特长，兴趣范围；（足球、曲棍球等中的）球门线；争球线（美式足球）；锋线队员（美式足球）；行（形成电视图像的横向细狭区）；（五线谱中的）谱线；曲调；（正规）战斗部队（the line）；赤道（the Line）；（印刷，计算机）线条的；字母底部水平线（the line）；（物理）（光谱上明显比相邻部分亮或暗的）谱线；（数）直线，曲线"
+    ],
+    "path": "file:///Users/Forest/Documents/lambda/opl_mobility.md\t3\t7"
+  },
+  {
+    "id": "XUDluwJtdJpKOqlwXIR5l",
+    "content": [
+      "rom",
+      "abbr. 只读存储器（read only memory）"
+    ],
+    "path": "file:///Users/Forest/Documents/lambda/opl_lambda.md\t5\t14"
+  },
+  {
+    "id": "WmPmnwkMLCmIwtOfkDfBb",
+    "content": [
+      "Update",
+      "v. 为……增加最新信息，更新；使现代化；向……提供最新信息"
+    ],
+    "path": "untitled:1\t16\t5"
+  },
+  {
+    "id": "9cgNH-IHgOgWKzX2sYzQV",
+    "content": [
+      "startPoint",
+      "出发点；[交][数] 起始点"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/OnTheCourt/assets/Script/Welcome.ts\t136\t27"
+  },
+  {
+    "id": "jJfiPjagahkqxkgcIjxYA",
+    "content": [
+      "current",
+      "adj. 现行的，当前的；通用的，流行的；最近的"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/OnTheCourt/assets/Script/Welcome.ts\t138\t27"
+  },
+  {
+    "id": "JUtnGtDz0O9xvj80iSfpP",
+    "content": [
+      "parabolic_func",
+      "抛物线函数"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/OnTheCourt/assets/Script/Welcome.ts\t108\t15"
+  },
+  {
+    "id": "-UH8jhD8_00Yioiuky70m",
+    "content": [
+      "=",
+      "="
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/OnTheCourt/assets/Script/Welcome.ts\t108\t18"
+  },
+  {
+    "id": "kY3Zlg2RYgsWyUdIoJGqt",
+    "content": [
+      "1",
+      "one"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/OnTheCourt/assets/Script/Welcome.ts\t110\t18"
+  },
+  {
+    "id": "5fUUtGSmoxjWIzRA8t52t",
+    "content": [
+      "lexicon.",
+      "n. 词典，辞典"
+    ],
+    "path": "file:///Users/Forest/.vim/pack/basic/start/vimspector/doc/vimspector.txt\t805\t63"
+  },
+  {
+    "id": "HhC7P2n9TKENntFcgUrOl",
+    "content": [
+      "documentation",
+      "n. 证明文件，凭证；（书面、电影等形式的）记载，记录；（电脑设备或程式的）说明书；（对文本、照片等的）分类，评注"
+    ],
+    "path": "file:///Users/Forest/Documents/matrix/segment-anything/CONTRIBUTING.md\t10\t48"
+  },
+  {
+    "id": "V6CMOxyhlWV_E5ceitf16",
+    "content": [
+      "We",
+      "pron. 我们（主格）；笔者，本人（作者或演讲人使用）；朕，寡人"
+    ],
+    "path": "file:///Users/Forest/Documents/matrix/segment-anything/CONTRIBUTING.md\t2\t1"
+  },
+  {
+    "id": "H4WF6u2Y1bhNrWjhVOs3Z",
+    "content": [
+      "4",
+      "four"
+    ],
+    "path": "file:///Users/Forest/Documents/matrix/toolchain/%21sh\t1\t1"
+  },
+  {
+    "id": "8pSj7i_RH4--dSpb3eNh_",
+    "content": [
+      "0",
+      "zero"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/OnTheCourt/assets/Script/Helloworld.ts\t21\t1"
+  },
+  {
+    "id": "9y8Tv9lweJJ2i0QfJ_GAq",
+    "content": [
+      "game",
+      "n. 游戏，比赛；一局，一场；运动会；体育课，体育活动；儿戏；诡计，花招；猎物，野味；行当，行业；玩耍，消遣；比赛技巧"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/OnTheCourt/assets/Script/Helloworld.ts\t27\t13"
+  },
+  {
+    "id": "RK8W25JNfUPRPiX4BNmfq",
+    "content": [
+      "c1",
+      "n. 管理员，办事员"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/OnTheCourt/assets/Script/Helloworld.ts\t28\t17"
+  },
+  {
+    "id": "PpJ2296YLZSo4I1iwUF6y",
+    "content": [
+      "tween",
+      "prep. 在……之间"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/OnTheCourt/assets/Script/Helloworld.ts\t38\t15"
+  },
+  {
+    "id": "ekM3BJWCOVAVc65sd_H_a",
+    "content": [
+      "text",
+      "n. （书、杂志等中区别于图片的）正文，文字材料；（演说等的）原文；（学习某课程必读的）课本，教科书；（供讨论或回答问题的）文本，文章；（讨论等的）题目，主题；（尤指科学或学术方面的）文献；（计算机、手机等）文档；短信；（尤指引作布道主题的）圣经经文；（尤指用于手稿的）粗体正楷"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/OnTheCourt/assets/Script/Helloworld.ts\t20\t5"
+  },
+  {
+    "id": "csbZkLJqy8vS9mP7ZMM8d",
+    "content": [
+      "var",
+      "abbr. 加值型经销商（value-added reseller）；垂直机载火箭（Vertical Aircraft Rocket）"
+    ],
+    "path": "file:///Users/Forest/.config/nvim/init.vim\t1\t1"
+  },
+  {
+    "id": "tpmX-U0NgNSV6QrT5ZtNv",
+    "content": [
+      "player",
+      "n. 运动员，选手；（乐器的）演奏者；<旧>演员，表演者；参与者，角色；（录音或录像的）播放器；<非正式>风流浪子；（用于剧团的名称中）剧团"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/OnTheCourt/assets/Script/Helloworld.ts\t12\t5"
+  },
+  {
+    "id": "7kbQ5qgFArlrm_F3ewcw3",
+    "content": [
+      "date",
+      "n. 日期，日子；约会，幽会；约会对象；椰枣，海枣"
+    ],
+    "path": "untitled:26\t12\t52"
+  },
+  {
+    "id": "bJVbSDayDctfFXWj_A-_h",
+    "content": [
+      "commit",
+      "v. 犯（罪、错）；调拨，投入；（使）承诺，承担义务；郑重承诺，忠于；把……关进医院（监狱），监禁；传唤（某人）到法院受审；订婚，决定与（某人）保持长期感情；把……托付给"
+    ],
+    "path": "untitled:26\t1\t1"
+  },
+  {
+    "id": "qjdK2ukdhxUU5xm59-hHs",
+    "content": [
+      "recap",
+      "v. 扼要重述，摘要说明；翻新胎面"
+    ],
+    "path": "file:///Users/Forest/Documents/matrix/dream_list.md\t22\t17"
+  },
+  {
+    "id": "Wltn6bOR2qgssxq6LeVyH",
+    "content": [
+      "vars",
+      "abbr. 增值经销商（value-added resellers）"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/StrikeBee/assets/Script/Helloworld.ts\t42\t27"
+  },
+  {
+    "id": "XXE6yFghaN8VcYus9H3qa",
+    "content": [
+      ";",
+      "；"
+    ],
+    "path": "file:///Users/Forest/.vimrc\t10\t1"
+  },
+  {
+    "id": "PYjB3Kl1DFVHctW8J9AIy",
+    "content": [
+      "intermediary",
+      "adj. 中间的，过渡的"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/StrikeBee/assets/Script/Helloworld.ts\t42\t28"
+  },
+  {
+    "id": "etTGgCIMFbDV28wYNGT2b",
+    "content": [
+      "much",
+      "det. 许多"
+    ],
+    "path": "file:///Users/Forest/Documents/matrix/aiways/opl.md\t52\t29"
+  },
+  {
+    "id": "IriE8u-zq51k6hTqu6eo7",
+    "content": [
+      "higher",
+      "adj. 更高的，较高的（high 的比较级）"
+    ],
+    "path": "file:///Users/Forest/Documents/matrix/aiways/opl.md\t52\t34"
+  },
+  {
+    "id": "RU46jM1JoM25PlcbZxYux",
+    "content": [
+      "band",
+      "n. 乐队；一伙，一群；范围，段；带，箍；带状物，条纹；波段，频带；戒指"
+    ],
+    "path": "file:///Users/Forest/Documents/matrix/aiways/opl.md\t52\t41"
+  },
+  {
+    "id": "0YkJV0pKvq72nzhB3fd5S",
+    "content": [
+      "evolution",
+      "n. 进化（论）；演变，发展；（气体的）释放，（热量的）散发；队形变换，位置变换；<旧>开方"
+    ],
+    "path": "file:///Users/Forest/Documents/matrix/aiways/opl.md\t42\t47"
+  },
+  {
+    "id": "I4ueSutQ6MQPOjTJIiT_s",
+    "content": [
+      "prototype",
+      "n. （新型汽车、机器等的）原型，雏形；典型，范例；蓝本，最初形态；（电子）原型滤波网络；（生物、天体等的）原始型；（建筑、汽车等的）全真模型"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Jigsaw/assets/Script/Block.ts\t253\t28"
+  },
+  {
+    "id": "694478a8-06cf-4cc9-9466-cb7671689d06",
+    "content": [
+      "Learn",
+      "v. 学习，学会；得知，获悉；背熟，熟记；认识到，（从……）吸取教训；<旧>教导（某人）"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/TheJourney/assets/Script/Bullet.ts\t2\t2"
+  },
+  {
+    "id": "3098c838-d2a0-4212-86be-9d89ef335939",
+    "content": [
+      "plenary",
+      "adj. 充分的；全体出席的"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/TheJourney/assets/Script/%5BPlugins%5D\t17\t4"
+  },
+  {
+    "id": "92d2e6db-02ff-40b0-b808-eff30a9d9ecd",
+    "content": [
+      "Telescope",
+      "n. 望远镜；射电望远镜，无线电望远镜（radio telescope 的简称）"
+    ],
+    "path": "file:///Users/Forest/.config/nvim/init.vim\t48\t34"
+  },
+  {
+    "id": "6d57949a-ac08-408a-89aa-6f7226530fb2",
+    "content": [
+      "help_tags",
+      "帮助标签"
+    ],
+    "path": "file:///Users/Forest/.config/nvim/init.vim\t48\t37"
+  },
+  {
+    "id": "34ca16af-dd25-429a-9b48-1d7469f91d8c",
+    "content": [
+      "endif",
+      "endif"
+    ],
+    "path": "file:///Users/Forest/.config/nvim/init.vim\t48\t37"
+  },
+  {
+    "id": "48579aad-e20e-43ca-87a4-176a52817166",
+    "content": [
+      "d",
+      "n. 字母 D"
+    ],
+    "path": "file:///Users/Forest/.config/nvim/init.vim\t250\t15"
+  },
+  {
+    "id": "e515b5fb-6cb7-44e2-ae05-7bc5bdf4491c",
+    "content": [
+      "LIFE",
+      "n. 寿命，一生；（某事物的）存在期；生命，性命；人命；生物，活物；生活，人生；生活方式，阅历；（某种）生活；生气，生机；生动，有趣；（游戏中）参加者的一次机会，命；（绘画的）模特儿，实物；传记；无期徒刑，终身监禁；今生，来世；幸免于死后的再生机会，新的生机；一世"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/TheJourney/assets/Script/WaveManager.ts\t19\t1"
+  },
+  {
+    "id": "343247e2-64fb-4a5e-a015-746528dc26ea",
+    "content": [
+      "transite",
+      "n. 石棉水泥板"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/TheJourney/assets/Script/Player.ts\t66\t59"
+  },
+  {
+    "id": "2800f585-dc42-4ef7-9af0-761a0fe1300c",
+    "content": [
+      "enterStateIdle",
+      "进入空闲状态"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/TheJourney/assets/Script/Player.ts\t228\t1"
+  },
+  {
+    "id": "8470ac27-7859-4c29-a9d4-523074f54d1f",
+    "content": [
+      "hurt",
+      "v. 使受伤，使疼痛；感到受伤，感到疼痛；损害；处于困境，手头拮据；伤心"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/TheJourney/assets/Script/Bullet.ts\t96\t60"
+  },
+  {
+    "id": "533e2044-c7f7-455b-9004-c9ae4c529e88",
+    "content": [
+      "Collapse",
+      "v. 倒塌，塌下；崩溃，瓦解；突然倒下，昏倒；瘫倒；突然贬值，暴跌；萎陷，瘪掉；折叠"
+    ],
+    "path": "file:///Users/Forest/.vim/pack/basic/start/coc.nvim/doc/coc.txt\t2553\t6"
+  },
+  {
+    "id": "06d40290-078f-4a34-aa4a-7ed29c304b1a",
+    "content": [
+      "envolve",
+      "v.<废语>包括；牵涉"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/TheJourney/assets/Script/design.md\t14\t15"
+  },
+  {
+    "id": "2d550215-2e59-41e1-a29c-09d4f139434a",
+    "content": [
+      "buhda",
+      "buhda"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/TheJourney/assets/Script/design.md\t15\t35"
+  },
+  {
+    "id": "39a7e04a-868e-4875-81c6-2e0b31dd0ce6",
+    "content": [
+      "exclusive",
+      "adj. 独有的，专用的；高档的，昂贵的；不含……的；排外的；排斥的；全部的；唯一关心的；（新闻或报道）独家的；（条款）除外责任的；高级的，昂贵的"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/TheJourney/assets/Script/design.md\t14\t50"
+  },
+  {
+    "id": "b6d6fcc6-6881-4a5b-8651-c644fb8b851e",
+    "content": [
+      "inclusive",
+      "adj. 包容广阔的；包括一切费用在内的；包括的，包含的；无性别歧视的；对外开放的"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/TheJourney/assets/Script/design.md\t14\t49"
+  },
+  {
+    "id": "c687c40d-1109-4b13-b892-dee4b81178b6",
+    "content": [
+      "def",
+      "adj. （俚）极好的，首屈一指的"
+    ],
+    "path": "file:///Users/Forest/Documents/matrix/algorithms/Frenet_planning/following.py\t48\t7"
+  },
+  {
+    "id": "691d50b8-ccb6-4d51-a5de-68e2e73ff0c8",
+    "content": [
+      "self",
+      "n. 自己，自我；（指一个人）自己，本人；私心，私利；本人（用于商业函件、支票等）；（自己的）通常的行为方式，本来面目"
+    ],
+    "path": "file:///Users/Forest/Documents/matrix/PythonRobotics/PathPlanning/AStar/a_star.py\t184\t12"
+  },
+  {
+    "id": "ba1340ca-f6de-4d24-a9f6-831ae48a1c92",
+    "content": [
+      "cc",
+      "abbr. 复写的副本（Carbon Copy）；通信中心（Communication Center）；中央委员会（Central Committee）；商会（Chamber of Commerce）；关键特性（Critical Characteristics）"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Jigsaw/assets/Script/Block.ts\t450\t14"
+  },
+  {
+    "id": "f1dbde28-c8bc-4837-a5ae-21e7e34c0f2b",
+    "content": [
+      "RB_FMT_S8",
+      "rb fmt s8"
+    ],
+    "path": "file:///Users/Forest/.vimrc\t1\t1"
+  },
+  {
+    "id": "3b486996-6a55-49c5-888c-b98ec389be15",
+    "content": [
+      "Compressing",
+      "v. 压缩；精简；被挤压在一起；把……紧压在一起；摘要叙述（compress 的现在分词）"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Jigsaw/assets/Script/%5BPlugins%5D\t6\t33"
+  },
+  {
+    "id": "ad7e3974-a2b5-4f14-8f29-7e9cab7de954",
+    "content": [
+      "groupBlockList",
+      "组块列表"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Jigsaw/assets/Script/Block.ts\t222\t17"
+  },
+  {
+    "id": "71128cfa-8979-45d9-b35b-1e30c1656a93",
+    "content": [
+      "blockInGroup",
+      "块组"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Jigsaw/assets/Script/Block.ts\t227\t17"
+  },
+  {
+    "id": "07ea572a-e57c-4c16-a005-2d37040423fc",
+    "content": [
+      "c",
+      "symb. 碳 (carbon)"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/RememberHer/assets/Script/GameWin.ts\t1\t1"
+  },
+  {
+    "id": "80e2e44a-5464-42c1-9e15-4be8e5dc8e76",
+    "content": [
+      ">",
+      "right angle quote,右角"
+    ],
+    "path": "file:///Users/Forest/.vimrc\t8\t1"
+  },
+  {
+    "id": "c7ecec67-f924-44f5-a255-c4d86683fa72",
+    "content": [
+      "assist",
+      "v. 帮助，协助；<古>参加，出席"
+    ],
+    "path": "file:///Users/Forest/Documents/matrix/dream_list.md\t42\t5"
+  },
+  {
+    "id": "f5a469e5-7de1-42ff-91c9-ca721ad7a3f1",
+    "content": [
+      "holy-grail",
+      "圣杯；圣盘"
+    ],
+    "path": "file:///Users/Forest/.vim/pack/basic/start/vimcdoc-2.1.0/doc/index.cnx\t928\t1"
+  },
+  {
+    "id": "48f403fc-22ab-496a-a871-ad2392cf2799",
+    "content": [
+      "feel",
+      "v. 感受到，体会到；觉得，相信；使人感觉……；察觉到，意识到；触摸；受到；摸索；有知觉，能感知……"
+    ],
+    "path": "file:///Users/Forest/.vim/pack/basic/start/nerdtree/doc/NERDTree.txt\t785\t32"
+  },
+  {
+    "id": "a886e601-38d0-4ccf-a5fa-fe3430cc1df6",
+    "content": [
+      "bound",
+      "adj. 必然的，肯定的；受约束的，有义务的；被……所限制的，被……所束缚的；要到……去的，驶往……的；装订好的，有封面的；（与……）紧密相连的，关系密切；准备就绪的；（语法要素）黏附的"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/RememberHer/assets/Script/vimspector.Output%3ADebugInfo\t83\t48"
+  },
+  {
+    "id": "23ec71fc-3f88-4b8f-bd11-dbac05d011f4",
+    "content": [
+      "polishment",
+      "n. 磨光，擦亮；上光剂，擦亮剂；优雅，精良（polish 的变形）"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/RememberHer/assets/Design/design.md\t15\t18"
+  },
+  {
+    "id": "7490c79a-5d71-490b-9916-51f3dc1990d5",
+    "content": [
+      "paginate",
+      "v. 为……标页数"
+    ],
+    "path": "file:///Users/Forest/.vim/pack/basic/start/vim-fugitive/doc/fugitive.txt\t39\t8"
+  },
+  {
+    "id": "63c11bc8-395d-4710-9e6c-49963023431a",
+    "content": [
+      "this",
+      "pron. 这，这个；这样；今，本；……的这个；有个"
+    ],
+    "path": "file:///Users/Forest/.vimrc\t67\t1"
+  },
+  {
+    "id": "7616e235-e09f-4f25-b3e9-7ab684877bf8",
+    "content": [
+      "dark",
+      "adj. 黑暗的，昏暗的；深色的，暗色的；恐怖的，悲惨的；神秘的，隐秘的；忧郁的，悲观的；邪恶的，阴险的；（头发、眼睛或皮肤）褐色的，黑色的；（剧院）关闭的，停业的；（嗓音）低沉圆润的；（语音）暗的"
+    ],
+    "path": "file:///Users/Forest/.vimrc\t7\t16"
+  },
+  {
+    "id": "2ccc6d04-f4f0-4222-ba09-5c87c8fb5b89",
+    "content": [
+      "scrupulous",
+      "adj. 细致的，一丝不苟的；正直的，有道德原则的"
+    ],
+    "path": "file:///Users/Forest/.vim/pack/basic/start/rookie/functional.vim\t27\t10"
+  },
+  {
+    "id": "8d6503c4-c798-439f-8118-8a90036e4276",
+    "content": [
+      "accumulated",
+      "adj. 累计的"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Script/Helloworld.ts\t228\t48"
+  },
+  {
+    "id": "cd78deb5-1b86-42d1-953d-4a6bd7ee3e5e",
+    "content": [
+      "rhythm",
+      "n. （声音或运动的）节奏，韵律，节拍；节奏感；规则变化，节律；（艺术作品的）匀称，和谐；（韵文或散文）抑扬节奏"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Script/Item.ts\t23\t16"
+  },
+  {
+    "id": "32d70206-c059-46a2-9a13-86f0482cada5",
+    "content": [
+      "bypass",
+      "v. 绕过，避开；对（动脉等）作分流术，为……作搭桥术；不顾（规章制度），不请示"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Script/Troop.ts\t101\t42"
+  },
+  {
+    "id": "0ff0a99e-fb3d-4605-b046-cec4ebc7408e",
+    "content": [
+      "suppress",
+      "v. （尤指用武力）镇压，压制；阻止（进程或活动）；封锁，隐瞒（消息）；抑制（生理过程）；克制（感情或反应），忍住；部分（或完全）消除（电干扰）；（心理分析）自觉抑制（不愉快的想法，记忆）"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Script/Troop.ts\t101\t37"
+  },
+  {
+    "id": "3f932ba1-12a5-424c-9e14-90d94e486a41",
+    "content": [
+      "map",
+      "n. 地图；分布图；（基因）图谱，染色体图；天体图；映射；<非正式>脸，面孔"
+    ],
+    "path": "file:///Users/Forest/.vimrc\t29\t1"
+  },
+  {
+    "id": "4144c11f-2239-4934-bfe3-4d72e2e27576",
+    "content": [
+      "Extra",
+      "adj. 额外的；另外收费的"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Design/design.md\t78\t5"
+  },
+  {
+    "id": "3027fa08-9543-43a6-acd0-9b59a846049d",
+    "content": [
+      "ultra",
+      "n. （尤指政治上的）过激分子，极端主义者；超级马拉松（ultramarathon的简称）"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Design/design.md\t79\t6"
+  },
+  {
+    "id": "9ad4426e-c069-46ed-b172-0a92e06f990a",
+    "content": [
+      "coc",
+      "abbr. 完工证明书（Certification of Completion）"
+    ],
+    "path": "file:///Users/Forest/.vim/coc-settings.json\t3\t7"
+  },
+  {
+    "id": "e18909cc-1eaa-4167-aea5-f97319721b2a",
+    "content": [
+      "translator",
+      "n. （尤指从事笔译的）译者，翻译家；翻译机，翻译程序；电视差频转播机"
+    ],
+    "path": "file:///Users/Forest/.vimrc\t183\t35"
+  },
+  {
+    "id": "43ef8990-f6b8-4de1-9b89-f87bbb07542b",
+    "content": [
+      "monster",
+      "n. 怪兽，怪物；残忍的人，恶魔；小恶棍，捣蛋鬼；巨大的东西，庞然大物；难以驾驭的人，难以掌控的事物；畸形动物（或植物）"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Script/Config.ts\t15\t19"
+  },
+  {
+    "id": "c67b0e77-1fcb-466b-96ee-393c8c8b96c4",
+    "content": [
+      "dribble",
+      "v. 流（口水），垂（涎）；滴下，细流；运球"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Script/Config.ts\t13\t20"
+  },
+  {
+    "id": "4922171b-1c18-4a19-9443-4701faf2a9ad",
+    "content": [
+      "collision",
+      "n. 碰撞，相撞；冲突，抵触；争用"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Design/design.md\t68\t16"
+  },
+  {
+    "id": "5bc9589f-a1ec-4b82-9ebb-82d50c0740be",
+    "content": [
+      "performance",
+      "n. 表演，演出；工作情况，表现；（投资的）业绩；执行，履行；麻烦，苦差事（a performance）；艺术上的表现，演技；（汽车的）性能；（语言学）语言表现，言语行为"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Design/design.md\t69\t26"
+  },
+  {
+    "id": "15115426-2e13-4ade-a225-652d2b0b6761",
+    "content": [
+      "logic",
+      "n. 逻辑，（做某事的）道理；推理方法，逻辑学；（事实或事件的）规律，相互联系；（计算机或电器的）逻辑操作"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Design/design.md\t67\t29"
+  },
+  {
+    "id": "9ebdcdca-8d7c-4a59-81eb-462b7bccac77",
+    "content": [
+      "dithering",
+      "n. 抖色，混色"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Design/design.md\t68\t32"
+  },
+  {
+    "id": "ae36fca0-710b-491e-b296-d54aad2b0dad",
+    "content": [
+      "flowchart",
+      "n. [工业] 流程图；作业图"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Design/design.md\t62\t14"
+  },
+  {
+    "id": "f38fa414-be16-44cb-a1e4-fe44452701d0",
+    "content": [
+      "hoop",
+      "n. （金属、木或类似材料制成的）箍，环（尤指用于箍桶或制框架）；圈形耳环（hoop earring）；（用于滚着玩的）滚圈；呼啦圈（hula hoop 的简称）；（马戏团中供动物钻穿用的）大圈；<史>（用于撑开女子衬裙、裙子的用弹性材料制作的）裙环；<史>裙环衬裙（hoop petticoat）；（槌球游戏中的）拱门；篮圈，篮筐；<美，非正式>篮球运动（hoops）；（运动衫、职业赛马骑师帽上的）颜色对比强烈的横条镶边；<澳，非正式>职业赛马骑师"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Design/design.md\t56\t14"
+  },
+  {
+    "id": "54a52f54-5ad7-44b7-b29a-7516cbaf4fb9",
+    "content": [
+      "between",
+      "prep. （空间上）在……中间；（时间上）在……之间；（数量、重量、距离等）介于……之间；分隔着；（表示两方或多方关系）在……之间；合用，共享；通过共同努力，一起；（两人）私下间；往返于"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Design/design.md\t57\t12"
+  },
+  {
+    "id": "6992db69-5b08-4b58-82ee-0d02e093a1b4",
+    "content": [
+      "intervals",
+      "n. 间隔；[声]音程（interval 的复数）"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Design/design.md\t57\t12"
+  },
+  {
+    "id": "1386b0c8-ebc1-4efa-97cc-de426ac2a0be",
+    "content": [
+      "random",
+      "adj. 任意的，随机的，胡乱的；（砖石建筑）石头大小不一的；<非正式>奇怪的，不同寻常的"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Design/design.md\t56\t7"
+  },
+  {
+    "id": "5b07b921-ab5e-42f8-9cc5-8bd6f7f2cdf7",
+    "content": [
+      "shot",
+      "n. 射击，开枪（或炮）；枪（或炮）声；射手，枪手；弹丸，子弹；火箭发射；<非正式>（话语或行动上的）一击；（用手或某物）击，打；<非正式> 尝试，努力；击球，射门，投篮；（攻向球门的）球；铅球；一张照片，（电影的）一组镜头；镜头范围；<美，非正式> 注射；一口，一小杯（烈性酒）；少量；（某事发生或达成的）概率，可能性 "
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Design/design.md\t50\t9"
+  },
+  {
+    "id": "e453f296-1803-4a31-8d3b-898c4d17757a",
+    "content": [
+      "clutch",
+      "v. 紧握，紧抓；（因害怕或痛苦）突然抓住"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Design/design.md\t50\t5"
+  },
+  {
+    "id": "1162d0f9-a505-49c8-b639-1e9bff6c1e43",
+    "content": [
+      "dataManager",
+      "数据管理器"
+    ],
+    "path": "file:///Users/Forest/Documents/cocos/Sprint/assets/Script/Welcome.ts\t29\t13"
+  }
+]

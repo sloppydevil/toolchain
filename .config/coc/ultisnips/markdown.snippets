@@ -1,0 +1,185 @@
+# example for python support in snippet
+# post_jump "create_table(snip)"
+# snippet "tb([1-9][1-9])" "Fancy table" br
+# `!p snip.rv = match.group(1)`
+# endsnippet
+
+snippet mermaid "mermaid diagrams" b
+\`\`\`mermaid
+${0}
+\`\`\`
+endsnippet
+
+######################
+#  mermaid - state diagram  #
+######################
+
+snippet mermaid_state "mermaid state diagram" b
+\`\`\`mermaid
+stateDiagram-v2
+	[*] --> init
+	init --> standby
+	init --> passive
+	standby --> [*]
+	passive --> [*]
+	${1}
+\`\`\`
+${0}
+endsnippet
+
+snippet state_composite "state diagram, composite" b
+state ${1:First} {
+	${2}
+}
+${0}
+endsnippet
+
+snippet state_start "state diagram, start" b
+[*] --> ${1:state}
+${0}
+endsnippet
+
+snippet state_end "state diagram, end" b
+${1:state} --> [*]
+${0}
+endsnippet
+
+snippet state_choice "state diagram, choice" b
+state ${1:state} <<choice>>
+${0}
+endsnippet
+
+snippet state_fork "state diagram, fork" b
+state ${1:state} <<fork>>
+${0}
+endsnippet
+
+snippet state_join "state diagram, join" b
+state ${1:state} <<join>>
+${0}
+endsnippet
+
+snippet state_direction "state diagram, direction" b
+direction ${1:LR} // TB, BT, LR, RL
+${0}
+endsnippet
+
+snippet state_parallel "state_parallel" b
+--
+${0}
+endsnippet
+
+######################
+#  mermaid - journey  #
+######################
+snippet mermaid_journey "mermaid journey diagram" b
+\`\`\`mermaid
+journey
+title ${1:My working day}
+section Go to work
+	Make tea: 5: Me
+	Go upstairs: 3: Me
+	Do work: 1: Me, Cat
+section Go home
+	Go downstairs: 5: Me
+	Sit down: 5: Me
+\`\`\`
+endsnippet
+
+snippet journey_section "journey diagram, section" b
+section ${1:name}
+${2:plan:rank:role(s)}
+${0}
+endsnippet
+
+######################
+#  mermaid - gantt  #
+######################
+snippet mermaid_gantt "mermaid gantt diagram" b 
+\`\`\`mermaid
+gantt
+dateFormat  YYYY-MM-DD
+axisFormat  %Y-%m-%d
+todayMarker stroke-width:3px,stroke:#ff0000,opacity:0.618
+title       ${1:Adding GANTT diagram functionality to mermaid}
+
+section dev
+	task1: t1, `date -v-3d +"%Y-%m-%d"`, 1w
+	task2: active, t2, `date -v-3d +"%Y-%m-%d"`, 2w
+	task3: crit, t3, after t1 t2, 1w
+	task4: done, t4, 3w
+	task5: milestone, t5, `date -v+3w +"%Y-%m-%d"`, 0h
+${0}
+\`\`\`
+endsnippet
+
+snippet gantt_todayMarker "gantt diagram, today marker" b
+todayMarker stroke-width:3px,stroke:#ff0000,opacity:0.618
+endsnippet
+
+snippet gantt_section "gantt diagram, section" b
+section ${1:name}
+	task1: t1, today, 1w
+	task2: active, t2, today, 2w
+	task3: crit, t3, after t1 t2, 1w
+	task4: done, t4, 3w
+	task5: milestone, t5, `date -v+3w +"%Y-%m-%d"`, 0h
+${0}
+endsnippet
+
+
+snippet mermaid_config "mermaid diagram config" b
+%%{init: {"theme": "base", "themeVariables": { 
+"primaryColor": "#ccccff"
+,"background": "#f4f4f4"
+,"fontFamily": "papyrus"
+,"fontSize":"15px"
+,"lineColor": ""
+}}}%%
+${0}
+endsnippet
+
+
+######################
+#  mermaid barchart  #
+######################
+
+snippet mermaid_barchart "mermaid barchart" b
+\`\`\`mermaid
+gantt
+	title Git Issues - days since last update
+	dateFormat X
+	axisFormat %s
+	section Issue19062
+	71   : 0, 71
+	section Issue19401
+	36   : 0, 36
+	section Issue193
+	34   : 0, 34
+	section Issue7441
+	9    : 0, 9
+	section Issue1300
+	5    : 0, 5
+\`\`\`
+
+endsnippet
+
+######################
+#  mermaid timeline  #
+######################
+
+snippet mermaid_timeline "mermaid timeline" b
+
+\`\`\`mermaid
+timeline
+	title History of Social Media Platform
+	2002 : LinkedIn
+	2004 : Facebook
+		 : Google
+	2005 : Youtube
+	2006 : Twitter
+
+\`\`\`
+
+endsnippet
+
