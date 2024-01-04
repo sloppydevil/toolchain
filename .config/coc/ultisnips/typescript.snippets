@@ -1,0 +1,285 @@
+################
+#  weixin API  #
+################
+
+snippet wx_toast "wx_toast" b
+wx.showToast({
+	title: '请求中',   //提示文字在这里插入代码片
+	duration:2000,   //显示时长
+	mask:true,   //是否显示透明蒙层，防止触摸穿透，默认：false  
+	icon:'success',   //图标，支持"success"、"loading"  
+	success:function(){ },  //接口调用成功
+	fail: function () { },  //接口调用失败的回调函数  
+	complete: function () { } //接口调用结束的回调函数  
+})
+endsnippet
+
+snippet wx_random_title "wx_random_title" b
+getWXRandomTitle() {
+	// config is data;
+	let shuffle = Array(config.wxShareTitles.length)
+		.fill(null)
+		.map((_, v) => v)
+		.sort(() => Math.random() - 0.5);
+
+	return config.wxShareTitles[shuffle[0\]\];
+}
+
+endsnippet
+
+snippet wx_passive_share "wx_passive_share" b
+configWXShareMenu() {
+	// show wx share menu;
+	if (cc.sys.platform == cc.sys.WECHAT_GAME) {
+		wx.showShareMenu({
+		withShareTicket: true,
+		menus: ["shareAppMessage", "shareTimeline"\],
+		title: "记住她",
+		});
+	}
+
+	// config passive  share;
+	let title = this.dataManager.getWXRandomTitle()
+	let share = this.dataManager.getWXRandomShare()
+		wx.onShareAppMessage(function () {
+			return {
+			title: title
+				imageUrlId: share[0\],
+				imageUrl: share[1\],
+			};
+		});
+}
+
+endsnippet
+
+snippet wx_active_share "wx_active_share" b
+// config active  share;
+let title = this.dataManager.getWXRandomTitle()
+let share = this.dataManager.getWXRandomShare()
+wx.shareAppMessage( {
+	title: title,
+	imageUrlId: share[0\],
+	imageUrl: share[1\]
+});
+
+endsnippet
+
+######################
+#  creator solution  #
+######################
+
+snippet import_class "import new class" b
+import ${1:NewClass} from './${1:NewClass}'
+endsnippet
+
+snippet add_inner_property "add_inner_property" b
+${1:name}: ${2:type} = ${3:null}
+${0}
+endsnippet
+
+snippet add_outer_property "add_outer_property" b
+@property (${1:type})
+${2:name}: ${1} = ${3:null}
+${0}
+endsnippet
+
+snippet add_outer_property_list "add_outer_property_list" b
+@property ([${1:type}])
+${2:name}: ${1}[] = []
+${0}
+endsnippet
+
+snippet read_user_data "read_user_data" b
+// simple data;
+// var value = cc.sys.localStorage.getItem("key");
+// value = (value == null)? 0 : parseInt(value)
+// complex data;
+var userData = cc.sys.localStorage.getItem("${1:userData}");
+if (userData) {
+	// use stored value;
+	userData = JSON.parse(userData);
+} else {
+	// use default value;
+}
+endsnippet
+
+snippet save_simple_data "save_simple_data" b
+cc.sys.localStorage.setItem("${1:key}", ${2:value});
+endsnippet
+
+snippet save_complex_data "save_complex_data" b
+let userData = {${2}}
+cc.sys.localStorage.setItem("${1:userData}", JSON.stringify(userData));
+${0}
+endsnippet
+
+snippet register_touch "register_touch" b
+this.node.on(cc.Node.EventType.TOUCH_START, this._onTouchStart, this)
+this.node.on(cc.Node.EventType.TOUCH_MOVE, this._onTouchMove, this)
+this.node.on(cc.Node.EventType.TOUCH_END, this._onTouchEnd, this)
+// this.node.on(cc.Node.EventType.TOUCH_CANCEL, this._onTouchCancel, this)
+${0}
+endsnippet
+
+snippet on_touch_start "on_touch_start" b
+_onTouchStart(touch:cc.Event.EventTouch) {
+	// cc.log("touch start")
+	let location = touch.getLocation()
+    let local_location = this.node.convertToNodeSpaceAR(location);
+	${0}
+}
+endsnippet
+
+snippet on_touch_move "on_touch_move" b
+_onTouchMove(touch: cc.Event.EventTouch) {
+	// cc.log("touch move")
+	let location = touch.getLocation()
+    let local_location = this.node.convertToNodeSpaceAR(location);
+	let preLocation = touch.getPreviousLocation()
+
+	let deltaX = location.x - preLocation.x
+	let deltaY = location.y - preLocation.y
+	this.node.x += deltaX
+	this.node.y += deltaY
+	${0}
+}
+endsnippet
+
+snippet on_touch_end "on_touch_end" b
+_onTouchEnd(touch:cc.Event.EventTouch) {
+	// cc.log("touch end")
+	let location = touch.getLocation()
+    let local_location = this.node.convertToNodeSpaceAR(location);
+	${0}
+}
+endsnippet
+
+snippet on_touch_cancel "on_touch_cancel" b
+_onTouchCancel(touch:cc.Event.EventTouch) {
+	// cc.log("touch cancel")
+	${0}
+}
+endsnippet
+
+snippet print_line "print_line" b
+console.log("-------------------------------------------------------")
+${0}
+endsnippet
+
+snippet random_int "random_int" w
+Math.round(Math.random() * ${1:num})
+endsnippet
+
+
+snippet random_int_list "generate random int list" b
+let length = 5
+var shuffleList = new Array(length);
+for (let index = 0; index <length; index++) {
+	shuffleList[index\] = index;
+}
+shuffleList.sort(() => Math.random() - 0.5);
+endsnippet
+
+snippet screen_adaption "screen_adaption" b
+// screen adaption; for fit width mode;
+let topGap = cc.winSize.height - cc.sys.getSafeAreaRect().height;
+topGap = topGap > 0 ? topGap : 0;
+let bottomGap = cc.sys.getSafeAreaRect().y;
+this.backgroundWidget.top = -topGap;
+this.backgroundWidget.bottom = -bottomGap;
+endsnippet
+
+
+snippet color_from_hex "color_from_hex" bAw
+cc.Color.fromHEX(cc.Color.BLACK, "${1:#ccffcc}");
+endsnippet
+
+snippet on_collision_func "on_collision_func" b
+onCollisionEnter(other, self) {
+	// console.log("collision enter!");
+}
+
+onCollisionStay(other, self) {
+	// console.log("collision stay");
+}
+
+onCollisionExit(other, self) {
+	// console.log("collision exit");
+}
+
+endsnippet
+
+
+snippet config_tick_function "config_tick_function" b
+private configTickFunction() {
+	let root = this.behaviorTree.root;
+	let node_list = [];
+
+	// add the root node to the list
+	node_list.push(root);
+
+	// traverse the tree
+	while (node_list.length > 0) {
+		// get the next node in the list
+		let node = node_list.shift();
+
+		// do something with the node
+		// set map values as they are;
+		for (const prop in node.properties) {
+			if (
+					Object.prototype.hasOwnProperty.call(node.properties, prop)
+			   ) {
+				let expression =
+					"this." + node.properties[prop] + ".bind(this)";
+				node[prop] = eval(expression);
+			}
+		}
+
+		// if tick is defined, used the designated function;
+		// if tick not defined, use node title as value, "tick" as key;
+		// for now, only for condition and action nodes;
+		let isNotDefined = !("tick" in node.properties);
+		let isOfConditionOrAction =
+			node.__proto__.category.search(/condition|action/i) > -1;
+		if (isNotDefined && isOfConditionOrAction) {
+			let expression = "this." + node.title + ".bind(this)";
+			node["tick"] = eval(expression);
+		}
+
+		// add the node's children to the list
+		if (node.children) {
+			node_list = node_list.concat(node.children);
+		}
+	}
+}
+endsnippet
+
+# behavior tree condition node function;
+snippet b3_condition "b3_condition" b
+is${1:Dunk}Possible(_tick) {
+	// !!!: config this to filter specific item on behavior tree blackboard;
+	let policy = this.blackboard.get("attack_policy");
+	let isPolicyHas${1:Dunk} = policy.search(/`!p snip.rv=t[1].lower()`/i) > -1;
+	if (!isPolicyHas${1:Dunk}) {
+		return b3.FAILURE;
+	}
+
+	// !!!: decouple business code: <2023-05-17, Forest> //
+	let is${1:Dunk}Finished = this.blackboard.get("is_`!p snip.rv=t[1].lower()`_finished");
+	// biz code on first access;
+	if (is${1:Dunk}Finished == null) {
+		// init shoot flag to make sure the code runs only once;
+		this.blackboard.set("is_`!p snip.rv=t[1].lower()`_finished", false);
+		return b3.SUCCESS;
+	}
+	// tick for next interation calls;
+	if (is${1:Dunk}Finished) {
+		console.log(" is `!p snip.rv=t[1].lower()` finished!");
+		return b3.FAILURE;
+	} else {
+		console.log("is `!p snip.rv=t[1].lower()` running...");
+		return b3.RUNNING;
+	}
+}
+endsnippet
+
